@@ -2,5 +2,9 @@
 
 ### Final project for Medical Imaging course at Mansoura University.
 
-* #### Project outcome:
+* [Modeling notebook](./Modeling_notebok.ipynb)
+
+* [Pyqt5 desktop app file](./app.py)
+
+#### Project outcome:
 ![out](./final.png)
